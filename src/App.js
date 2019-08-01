@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import FacebookLogin from "react-facebook-login";
 import { FacebookProvider, LoginButton, Profile } from "react-facebook";
 
 import "./App.scss";
